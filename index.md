@@ -1,7 +1,9 @@
 # YIFEI  WANG
 ## Personal Details 
 Name: Yifei Wang ( 王 逸非 )
+
 Email: wany107@aucklanduni.ac.nz
+
 School of Computer Science, University of Auckland
 
 ## Research Interest
