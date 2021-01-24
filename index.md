@@ -1,17 +1,19 @@
 # YIFEI  WANG
 ## Personal Details 
+Name: Yifei Wang ( 王 逸非 )
+Email: wany107@aucklanduni.ac.nz
+School of Computer Science, University of Auckland
 
+## Research Interest
+Graph Theory, Graph neural network, Self-supervised learning
 
-### Markdown
+## Research Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```Residual Entropy-based GCN for Community Detection
+- Classical community detection methods only utilize topology, without inherent structures of the features. GCN-based models rely on Auto Encoder or Ncut stages, which is not suitable for Community Detection.
+- We designed a residual entropy to quantify structural information for community detection on attributed graphs, and combine it with GCN to find ideal solution.
+- The model outperforms others. We are preparing the paper.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
