@@ -1,3 +1,29 @@
+
+<h2>Affiliation</h2>
+<ul>
+<li> Apr.&nbsp;2022—present
+	postdoc at
+	<a href="https://tcsuestc.com/" target="_blank">Algorithms and Logic Group</a>,
+	<a href="https://www.uestc.edu.cn/" target="_blank">UESTC</a>, China
+	
+</li><li> Apr.&nbsp;2018—Mar.&nbsp;2022
+     project researcher at
+     <a href="http://group-mmm.org/eratommsd">ERATO Metamathematics for Systems Design Project</a>,
+     <a href="http://www.nii.ac.jp">National Institute of Informatics (NII)</a>, Japan
+     
+</li><li> Apr.&nbsp;2014—Mar.&nbsp;2018
+     Ph.D. student at
+     <a href="http://www.kurims.kyoto-u.ac.jp/~cs/index.html">Computer Science group</a>,
+     <a href="http://www.kurims.kyoto-u.ac.jp/en/index.html">Research Institute for Mathematical Sciences</a>, Japan (Supervisor: <a href="http://www.kurims.kyoto-u.ac.jp/~hassei/">Masahito Hasegawa</a>)
+
+</li><li> Apr.&nbsp;2012—Mar.&nbsp;2014
+     MSc student at
+     <a href="http://www.kurims.kyoto-u.ac.jp/~cs/index.html">Computer Science group</a>,
+     <a href="http://www.kurims.kyoto-u.ac.jp/en/index.html">Research Institute for Mathematical Sciences</a>, Japan (Supervisor: <a href="http://www.kurims.kyoto-u.ac.jp/~hassei/">Masahito Hasegawa</a>)
+
+</li></ul>
+
+
 YIFEI WANG
 Personal Details
 Name: Yifei Wang ( 王 逸非 )
